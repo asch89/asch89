@@ -1,6 +1,4 @@
-I’m Joey,
-- I’m interested software engineering, especially web and app development
-- I’m looking for internships and student-work opportunites
+Software Engineer
 - How to reach me: joeymasche@gmail.com
 
 <!---
