@@ -1,4 +1,3 @@
-Software Engineer
 - How to reach me: joeymasche@gmail.com
 
 <!---
