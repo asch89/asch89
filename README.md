@@ -1,4 +1,5 @@
-- How to reach me: joeymasche@gmail.com
+software engineer
+- how to reach me: joeymasche@gmail.com
 
 <!---
 asch89/asch89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
